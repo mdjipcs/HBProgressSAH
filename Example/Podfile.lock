@@ -8,14 +8,10 @@ PODS:
 
 DEPENDENCIES:
   - FBSnapshotTestCase
-  - HBProgressSAH (from `../`)
-
-EXTERNAL SOURCES:
-  HBProgressSAH:
-    :path: ../
+  - HBProgressSAH (~> 0.1.0)
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 7e85180d0d141a0cf472352edda7e80d7eaeb547
-  HBProgressSAH: 759d9f67be23711ce6a28869c92a37f5d098f894
+  HBProgressSAH: a9636cd682970969e85b56c2287435d65c5416ab
 
 COCOAPODS: 0.39.0
