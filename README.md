@@ -17,12 +17,12 @@ HBProgressSAH is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "HBProgressSAH"
+pod 'HBProgressSAH', '~> 0.1.0'
 ```
 
 ## Author
 
-Ryu Su, yishanpei@live.cn
+Huangbaoan, yishanpei@live.cn
 
 ## License
 
