@@ -1,0 +1,6 @@
+framework module HBProgressSAH {
+  umbrella header "HBProgressSAH-umbrella.h"
+
+  export *
+  module * { export * }
+}
