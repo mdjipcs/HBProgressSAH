@@ -1,4 +1,6 @@
-# HBProgressSAH
+<p align="center" >
+  <img src="http://images.apple.com/apple-events/static/apple-events/march-2016/teaser/hero_image_large_2x.jpg" alt="AFNetworking" title="AFNetworking">
+</p>
 
 [![CI Status](http://img.shields.io/travis/Ryu Su/HBProgressSAH.svg?style=flat)](https://travis-ci.org/Ryu Su/HBProgressSAH)
 [![Version](https://img.shields.io/cocoapods/v/HBProgressSAH.svg?style=flat)](http://cocoapods.org/pods/HBProgressSAH)
