@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'HBProgressSAH_Example', :exclusive => true do
+  pod 'HBProgressSAH', :path => '../'
+end
+
+target 'HBProgressSAH_Tests', :exclusive => true do
+  pod 'HBProgressSAH', :path => '../'
+
+  pod 'FBSnapshotTestCase'
+end
