@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '00E37E838AC3331608449880'
+               BlueprintIdentifier = '65914F56FE3A3F6A61E3B5CF'
                BlueprintName = 'HBProgressSAH'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'HBProgressSAH.framework'>

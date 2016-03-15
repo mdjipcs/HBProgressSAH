@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   * Finally, don't worry about the indent, CocoaPods strips it! 
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/HBProgressSAH"
+  s.homepage         = "https://github.com/mdjipcs/HBProgressSAH"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Ryu Su" => "yishanpei@live.cn" }
@@ -39,6 +39,6 @@ Pod::Spec.new do |s|
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'UIKit', 'QuarzCore'
+  s.frameworks = 'UIKit', 'QuartzCore'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
