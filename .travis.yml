@@ -1,15 +1,7 @@
-# references:
-# * http://www.objc.io/issue-6/travis-ci.html
-# * https://github.com/supermarin/xcpretty#usage
-
-language: objective-c
-
-osx_image: xcode7.3
-# cache: cocoapods
-# podfile: Example/Podfile
-# before_install:
-# - gem install cocoapods # Since Travis is not always on latest version
-# - pod install --project-directory=Example
-script:
-- set -o pipefail && xcodebuild test -workspace Example/HBProgressSAH.xcworkspace -scheme HBProgressSAH-Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO | xcpretty
-- pod lib lint
+highlight-color: "#F89915"
+highlight-dark-color: "#E23B1B"
+darker-color: "#D8A688"
+darker-dark-color: "#E93D1C"
+background-color: "#E9DFDB"
+alt-link-color: "#E23B1B"
+warning-color: "#E23B1B"
