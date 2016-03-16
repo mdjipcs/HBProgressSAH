@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "HBProgressSAH"
   s.version          = "0.1.0-beta"
-  s.summary          = "A beautiful ProgressView For iOS."
+  s.summary          = "A beautiful ProgressView Smart Use For iOS."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,18 +17,18 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
-  * Think: What does it do? Why did you write it? What is the focus?
-  * Try to keep it short, snappy and to the point.
-  * Write the description between the DESC delimiters below.
-  * Finally, don't worry about the indent, CocoaPods strips it! 
+  * Beautiful design and bset colors.
+  * Over 7 modes to choise.
+  * Cocoapods support easy upated.
+  * Designed by Huangbaoan in China. 
                        DESC
 
   s.homepage         = "https://github.com/mdjipcs/HBProgressSAH"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Ryu Su" => "yishanpei@live.cn" }
+  s.author           = { "Huangbaoan" => "yishanpei@live.cn" }
   s.source           = { :git => "https://github.com/mdjipcs/HBProgressSAH.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  # s.social_media_url = 'http://weibo.com/peiyishan/home/'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
