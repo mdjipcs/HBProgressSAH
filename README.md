@@ -2,7 +2,7 @@
   <img src="https://devimages.apple.com.edgekey.net/ios/images/adp-section-hero.jpg" alt="Developing for iOS 9" title="">
 </p>
 <p align="center" >
-  <img src="https://github.com/mdjipcs/HBProgressSAH/blob/master/Assets/pancil.jpeg" alt="Developing for iOS 9" title="">
+  <img src="https://github.com/mdjipcs/HBProgressSAH/blob/master/Assets/pancil.png" alt="Developing for iOS 9" title="">
 </p>
 
 [![CI Status](http://img.shields.io/travis/Ryu Su/HBProgressSAH.svg?style=flat)](https://travis-ci.org/Ryu Su/HBProgressSAH)
