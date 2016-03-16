@@ -4,14 +4,18 @@ PODS:
   - FBSnapshotTestCase/Core (2.0.7)
   - FBSnapshotTestCase/SwiftSupport (2.0.7):
     - FBSnapshotTestCase/Core
-  - HBProgressSAH (0.1.0)
+  - HBProgressSAH (0.2.0-beta)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
-  - HBProgressSAH (~> 0.1.0)
+  - HBProgressSAH (from `../`)
+
+EXTERNAL SOURCES:
+  HBProgressSAH:
+    :path: ../
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 7e85180d0d141a0cf472352edda7e80d7eaeb547
-  HBProgressSAH: a9636cd682970969e85b56c2287435d65c5416ab
+  HBProgressSAH: d12033e990b8394c5da67eb6f5155ba0e58f8895
 
 COCOAPODS: 0.39.0

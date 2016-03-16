@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "HBProgressSAH"
-  s.version          = "0.1.0-beta"
+  s.version          = "0.2.0-beta"
   s.summary          = "A beautiful ProgressView Smart Use For iOS."
 
 # This description is used to generate tags and improve search results.
@@ -32,8 +32,9 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
+  
+  s.source_files = 'Pod/Classes/*.{h,m}'
 
-  s.source_files = 'Pod/Classes/**/*'
   s.resource_bundles = {
     'HBProgressSAH' => ['Pod/Assets/*.png']
   }
